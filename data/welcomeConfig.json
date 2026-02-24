@@ -1,0 +1,12 @@
+{
+  "1339268304044560451": {
+    "channel": "1403035571223269396",
+    "embed": {
+      "title": "Hi",
+      "description": "1. <:server:1355153244715876352> Server\n**maintenance on, mt on, maintenance off, mt off, rename, deletechannel**\n2. <:moderation:1355153248641745016> Moderation\n**kick, ban, unban, lock, unlock, hide, unhide, purge, unhideall, hideall, lockall, unlockall**\n3. <:info2:1355219987471794369> Information\n**invite, help, support, ping, uptime, stats**\n4. <:utility:1355215363444441314> Utility\n**list emojis, list bots, list roles, list boosters, list bans, serverinfo**\n5. <:fun:1355221298099257504> Fun\n**slap, kiss, hug, mines**",
+      "footer": "Ami cute tai na",
+      "image": "https://cdn.discordapp.com/avatars/1105408192537698334/9771f8cc5628eb540602060c7dce6952.webp?size=2048",
+      "color": "#41c192"
+    }
+  }
+}
